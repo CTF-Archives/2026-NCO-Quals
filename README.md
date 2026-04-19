@@ -1,0 +1,39 @@
+# NCO2026——入围测试
+
+[竞赛介绍](https://doc.weixin.qq.com/doc/w3_AP4AVwYpACgCNsk5yzJQ3T3SphjKF?scode=ALsAXQdXAAw0I48twLAAIAnwa0ACk)
+
+## Crypto
+### Crypto-中等夺旗-MatCipher
+### Crypto-入门夺旗-ROT13
+### Crypto-单选题
+### Crypto-多选题
+### Crypto-简单夺旗-AECBS
+### Crypto-简单夺旗-EasyRSA
+## Forensics
+### Forensics-中等夺旗-碎影
+### Forensics-入门夺旗-回响
+### Forensics-单选题
+### Forensics-多选题
+### Forensics-简单夺旗-暗流
+### Forensics-简单夺旗-残像
+## Pwn
+### PWN-中等夺旗-食堂点餐系统
+### PWN-入门夺旗-parrotbooth
+### PWN-单选题
+### PWN-多选题
+### PWN-简单夺旗-史莱姆实验室
+### PWN-简单夺旗-超级无敌扭蛋机
+## Reverse
+### Rev-中等夺旗-traceweaver
+### Rev-入门夺旗-unzip
+### Rev-单选题
+### Rev-多选题
+### Rev-简单夺旗-bitdance
+### Rev-简单夺旗-pygloom
+## Web
+### Web-中等夺旗-个性签名生成器
+### Web-入门夺旗-超级无敌保险箱
+### Web-单选题
+### Web-多选题
+### Web-简单夺旗-校园表白墙
+### Web-简单夺旗—EasyLogin
